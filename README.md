@@ -1,6 +1,9 @@
-# Building with AI 🤖
+# 👋 Hey, I'm Aastha — Welcome to my World of Code
 
-## ⚡ Aastha ⚡
+###### "Turning ideas into intelligent systems."
+
+## About me
+
 ```
 Name = "Aastha"
 Stack = {
@@ -15,7 +18,6 @@ Role = "Working at Red Hat — Data & AI Team"
 Country = "India"
 College = "Chitkara University"
 # Portfolio = "https://aastha-portfolio-20.netlify.app/"
-
 About = [
   "I'm an AI enthusiast & aspiring innovator",
   "Exploring the realms of Artificial Intelligence",
@@ -41,5 +43,12 @@ About = [
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+## 🐍 Contribution Snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/Aastha204/Aastha204/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aastha204&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=Aastha204&show_icons=true&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha204&layout=compact&theme=dark&hide_border=false)
