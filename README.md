@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Aastha — Welcome to my World of Code
-
 ###### "Turning ideas into intelligent systems."
-
 ## About me
-
 ```
 Name = "Aastha"
 Stack = {
@@ -24,10 +21,8 @@ About = [
   "⚡️ Fun-Fact: I love turning ideas into intelligent systems",
 ]
 ```
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthagarg20/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aasthagarg333@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Aastha204)
-
 ## 💻 I Code With:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,17 +35,19 @@ About = [
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aastha204&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Aastha204&show_icons=true&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha204&layout=compact&theme=dark&hide_border=false)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&descSize=20&descAlign=50&descAlignY=10&theme=cobalt"  />
+</div>
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aastha204/Aastha204/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aastha204/Aastha204/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
 </picture>
-
+<br>
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Aastha204&label=Profile-Visitors&color=green&style=flat" /> 
 </p> -->
